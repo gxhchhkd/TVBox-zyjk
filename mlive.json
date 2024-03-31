@@ -1,0 +1,45 @@
+//=============多仓更新日期 2023/06/23=============
+
+//本多仓仓库在线链接：
+//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
+//https://raw.iqiq.io/mengzehe/tvbox/main/自用多仓
+
+
+{
+	"storeHouse": 
+	[ 
+		{"sourceName":"虎牙一起看","sourceUrl":"https://live.freetv.top/huyayqk.m3u"},
+		{"sourceName":"斗鱼一起看","sourceUrl":"https://live.freetv.top/douyuyqk.m3u"},
+		{"sourceName":"YY轮播","sourceUrl":"https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top"},
+		{"sourceName":"BiliBili直播","sourceUrl":"https://www.goodiptv.club/bililive.m3u"},
+		{"sourceName":"BESTV源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"},
+		{"sourceName":"SXG源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"},
+		{"sourceName":"YQGD源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"},
+		{"sourceName":"4K/8K源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
+		{"sourceName":"MSP源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"},
+		{"sourceName":"BigBigGrandG源","sourceUrl":"https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
+		{"sourceName":"APTV 回放测试源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
+		{"sourceName":"APTV 虎牙","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u"},
+		{"sourceName":"YanG Gather","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+		{"sourceName":"YanG 斗鱼","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
+		{"sourceName":"YueChan Radio","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u"},
+		{"sourceName":"whpsky-IPV6","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u"},
+		{"sourceName":"whpsky-ChinaTVM3u","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
+		{"sourceName":"whpsky-ChinaTVTxt","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt"},
+		{"sourceName":"zbefine-m3u","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u"},
+		{"sourceName":"zbefine-txt","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt"},
+		{"sourceName":"ZHG Playlist","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u"},
+		{"sourceName":"ZHG CNTV","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/CNTV.m3u"},
+		{"sourceName":"ZHG SamsungTVPlus","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/SamsungTVPlus.m3u"},
+		{"sourceName":"ZHG EdemTV","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/EdemTV.m3u"},
+		{"sourceName":"茶客","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U"},
+		{"sourceName":"乌云","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt"},
+		{"sourceName":"AILE-TV","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u"},
+		{"sourceName":"TVradio","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
+		{"sourceName":"epg.pw 中国地区可观看","sourceUrl":"https://epg.pw/test_channels.m3u"},
+		{"sourceName":"EPG 节目单1","sourceUrl":"https://epg.112114.xyz/pp.xml"},
+		{"sourceName":"EPG 节目单2","sourceUrl":"http://epg.51zmt.top:8000/e.xml"},
+		{"sourceName":"EPG 节目单3","sourceUrl":"http://epg.aptvapp.com/xml"},
+		{"sourceName":"EPG 节目单4","sourceUrl":"https://epg.pw/xmltv.html?lang=zh-hant"}
+	] 
+}
